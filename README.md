@@ -26,5 +26,7 @@ Please check the "data" folder
 4. Reference 
 
 Ghandi M, Mohammad-Noori M, Ghareghani N, Lee D, Garraway L, Beer MA. 2016. gkmSVM: an R package for gapped-kmer SVM. Bioinformatics 32:2205–2207.
+
 Lee D. 2016. LS-GKM: a new gkm-SVM for large-scale datasets. Bioinformatics 32:2196–2198.
+
 Lee D, Gorkin DU, Baker M, Strober BJ, Asoni AL, McCallion AS, Beer MA. 2015. A method to predict the impact of regulatory variants from DNA sequence. Nat. Genet. 47:955–961.
