@@ -21,7 +21,7 @@ After we got the SVM weights of all possible 10-mers, and both the ancestor and 
 
 2. The scripts were used to generate all figures in the paper
 
-Please check the "scripts" folder
+Please check "selection_analysis.R" in the "scripts" folder
 
 3. The data was used to generate all figures in the paper
 
