@@ -17,7 +17,7 @@ The ancestor sequence was inferred from sequence alignment with a sister species
 
 4).	Infer positive selection
 
-After we got the SVM weights of all possible 10-mers, and both the ancestor and focal sequences, we infered signal of positive selection by using "testPosSelec.pl". This script was saved in "scripts" folder, and was modified from deltasvm.pl, a script that calculates deltaSVM scores, which contributed by Lee et al. (2015). 
+After we got the SVM weights of all possible 10-mers, and both the ancestor and focal sequences, we infered signal of positive selection by using "testPosSelec.pl". This script was saved in "scripts" folder, and was modified from "deltasvm.pl", a script that calculates deltaSVM scores, which contributed by Lee et al. (2015). 
 
 2. The scripts were used to generate all figures in the paper
 
